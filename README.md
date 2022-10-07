@@ -14,11 +14,7 @@ I am a beginner Web Developer passionate about simple solutions to difficult pro
 * [Tic-Tac-Toe](https://github.com/daniellenasc/tic-tac-toe)
 * [Landing Page](https://github.com/daniellenasc/landing-page)
 
-<div align="center">
-  <a href="https://github.com/daniellenasc"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellenasc&layout=compact&langs_count=7&theme=dracula"/>
-</div>    
-  
+
 <div align="center">
   <p></p>
   <a href="https://www.linkedin.com/in/d-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
