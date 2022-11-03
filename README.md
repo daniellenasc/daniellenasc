@@ -2,8 +2,6 @@
 
 I am a beginner Web Developer passionate about simple solutions to difficult problems.
 
-👩‍💻 https://danielle-nascimento.netlify.app/
-
 📧 <a href="danielle_nascimento_@hotmail.com" target="_blank">danielle_nascimento_@hotmail.com</a>
 
 **Projects:**
