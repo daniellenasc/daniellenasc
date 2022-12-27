@@ -1,7 +1,5 @@
 ## 👋 Hello, I am Danielle Nascimento!
 
-I am a beginner Web Developer passionate about simple solutions to difficult problems.
-
 📧 <a href="danielle_nascimento_@hotmail.com" target="_blank">danielle_nascimento_@hotmail.com</a>
 
 **Projects:**
@@ -14,7 +12,6 @@ I am a beginner Web Developer passionate about simple solutions to difficult pro
 
 
 <div align="center">
-  <p></p>
   <a href="https://www.linkedin.com/in/d-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/daniellenasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://open.spotify.com/user/danielle_nascimento_" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
