@@ -4,6 +4,7 @@
 
 **Projects:**
 * [WhereTo?](https://github.com/daniellenasc/where-to-project-client)
+* [IronTasks](https://github.com/daniellenasc/week7-client/tree/danielle)
 * [Fabula Library](https://github.com/daniellenasc/projeto-livraria-fabula)
 * [Pokedex](https://github.com/daniellenasc/react-pokedex)
 * [Contactum](https://github.com/daniellenasc/contactum)
