@@ -5,13 +5,14 @@
 **Projects:**
 * [WhereTo?](https://github.com/daniellenasc/where-to-project-client)
 * [IronTasks](https://github.com/daniellenasc/week7-client/tree/danielle)
+* [GereciadorDeTime](https://github.com/daniellenasc/gerenciador-pessoas)
 * [Fabula Library](https://github.com/daniellenasc/projeto-livraria-fabula)
 * [Pokedex](https://github.com/daniellenasc/react-pokedex)
 * [Contactum](https://github.com/daniellenasc/contactum)
 * [Tic-Tac-Toe](https://github.com/daniellenasc/tic-tac-toe)
 * [Landing Page](https://github.com/daniellenasc/landing-page)
 
-
+Gerenciador de time
 <div align="center">
   <a href="https://www.linkedin.com/in/d-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/daniellenasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
